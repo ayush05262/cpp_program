@@ -8,5 +8,4 @@ int main(){
     cin>> cio;
     cout<< "the sum of bio and cio is : "<<bio + cio ;
     return 0;
-
 }
